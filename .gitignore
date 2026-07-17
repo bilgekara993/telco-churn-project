@@ -1,0 +1,24 @@
+# Sanal ortam
+.venv/
+
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# VS Code ayarları
+.vscode/
+
+# Eğitilmiş modeller
+models/*.joblib
+models/*.pkl
+
+# Gizli bilgiler
+.env
+.env.*
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
