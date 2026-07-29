@@ -1,0 +1,3 @@
+Model,En İyi ROC-AUC,En İyi Parametreler
+Logistic Regression,0.8463510709114537,"{'model__solver': 'liblinear', 'model__penalty': 'l2', 'model__class_weight': None, 'model__C': np.float64(6.2101694189156165)}"
+XGBoost,0.8497833390781231,"{'model__subsample': 1.0, 'model__reg_lambda': 5, 'model__reg_alpha': 0.01, 'model__n_estimators': 100, 'model__min_child_weight': 10, 'model__max_depth': 4, 'model__learning_rate': 0.05, 'model__colsample_bytree': 1.0}"
