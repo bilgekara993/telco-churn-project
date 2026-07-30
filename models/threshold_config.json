@@ -1,0 +1,6 @@
+{
+    "model_name": "XGBoost",
+    "decision_threshold": 0.07,
+    "campaign_cost": 50,
+    "lost_customer_cost": 500
+}

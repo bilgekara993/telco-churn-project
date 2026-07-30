@@ -1,0 +1,47 @@
+Özellik,Ortalama Mutlak SHAP
+categorical__Contract_Month-to-month,0.75228095
+numeric__tenure,0.3547219
+numeric__MonthlyCharges,0.26607883
+categorical__OnlineSecurity_No,0.22693002
+categorical__InternetService_Fiber optic,0.18417738
+categorical__TechSupport_No,0.17857301
+categorical__PaymentMethod_Electronic check,0.14953573
+categorical__PaperlessBilling_No,0.11157641
+numeric__TotalCharges,0.106507555
+categorical__Contract_Two year,0.103277706
+categorical__Contract_One year,0.08660238
+categorical__MultipleLines_No,0.08475851
+categorical__OnlineBackup_No,0.0638157
+categorical__StreamingMovies_Yes,0.06337829
+categorical__SeniorCitizen_0,0.035797484
+categorical__Dependents_No,0.027539868
+categorical__StreamingTV_Yes,0.015532288
+categorical__InternetService_DSL,0.015325461
+categorical__gender_Female,0.015085661
+categorical__PhoneService_No,0.01403349
+categorical__StreamingTV_No,0.010807709
+categorical__PaymentMethod_Bank transfer (automatic),0.0060246014
+categorical__DeviceProtection_No,0.0049842875
+categorical__StreamingMovies_No,0.0045497264
+categorical__PaymentMethod_Mailed check,0.0044941064
+categorical__MultipleLines_Yes,0.0027350876
+categorical__OnlineSecurity_Yes,0.0023558273
+categorical__PaymentMethod_Credit card (automatic),0.0017675183
+categorical__Partner_No,0.0016436639
+categorical__TechSupport_Yes,0.0015967438
+categorical__PhoneService_Yes,0.0
+categorical__Dependents_Yes,0.0
+categorical__SeniorCitizen_1,0.0
+categorical__Partner_Yes,0.0
+categorical__gender_Male,0.0
+categorical__MultipleLines_No phone service,0.0
+categorical__InternetService_No,0.0
+categorical__OnlineSecurity_No internet service,0.0
+categorical__TechSupport_No internet service,0.0
+categorical__DeviceProtection_Yes,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__OnlineBackup_Yes,0.0
+categorical__OnlineBackup_No internet service,0.0
+categorical__StreamingTV_No internet service,0.0
+categorical__StreamingMovies_No internet service,0.0
+categorical__PaperlessBilling_Yes,0.0
